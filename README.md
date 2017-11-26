@@ -21,3 +21,7 @@ XpnlWizard
 来源于 LabVIEW DSC 中的按钮XControl，移除不必要的dsc 相关界面内容。可以在按钮右键菜单中选择  
  1. 触发 CommandLine 命令
  2. 调用 VI
+ 
+XTwoColSelector
+-----------------
+左右双列选择器
