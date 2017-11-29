@@ -1,11 +1,11 @@
 LabVIEW X-Controls
 ========================================
 
- 1. [XIconBtn](https://github.com/nevstop/LabVIEW-UI-XCtl/blob/master/README.md#xiconbtn)
- 2. [XLEDDisplay](https://github.com/nevstop/LabVIEW-UI-XCtl/blob/master/README.md#xleddisplay)
- 3. [XpnlTab](https://github.com/nevstop/LabVIEW-UI-XCtl/blob/master/README.md#xpnltab)
- 4. [XpnlWizard](https://github.com/nevstop/LabVIEW-UI-XCtl/blob/master/README.md#xpnlwizard)
- 5. [XTwoColSelector](https://github.com/nevstop/LabVIEW-UI-XCtl/blob/master/README.md#xtwocolselector)
+ 1. [XIconBtn](https://github.com/nevstop/LabVIEW-UI-XCtl/#xiconbtn)
+ 2. [XLEDDisplay](https://github.com/nevstop/LabVIEW-UI-XCtl/#xleddisplay)
+ 3. [XpnlTab](https://github.com/nevstop/LabVIEW-UI-XCtl/#xpnltab)
+ 4. [XpnlWizard](https://github.com/nevstop/LabVIEW-UI-XCtl/#xpnlwizard)
+ 5. [XTwoColSelector](https://github.com/nevstop/LabVIEW-UI-XCtl/#xtwocolselector)
 
 XIconBtn
 -----------------
