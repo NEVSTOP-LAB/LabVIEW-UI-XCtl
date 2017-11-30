@@ -6,6 +6,7 @@ LabVIEW X-Controls
  3. [XpnlTab](https://github.com/nevstop/LabVIEW-UI-XCtl/#xpnltab)
  4. [XpnlWizard](https://github.com/nevstop/LabVIEW-UI-XCtl/#xpnlwizard)
  5. [XTwoColSelector](https://github.com/nevstop/LabVIEW-UI-XCtl/#xtwocolselector)
+ 6. [XAdvanceList](https://github.com/nevstop/LabVIEW-UI-XCtl/#xadvancelist)
 
 XIconBtn
 -----------------
@@ -29,3 +30,7 @@ XpnlWizard
 XTwoColSelector
 -----------------  
 ![XTwoColSelector](https://github.com/nevstop/LabVIEW-UI-XCtl/blob/master/XTwoColSelector/_img/2017-11-26_212921.png?raw=true)
+
+XAdvanceList
+-----------------
+增强LabVIEW String List 功能
