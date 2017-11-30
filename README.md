@@ -7,6 +7,7 @@ LabVIEW X-Controls
  4. [XpnlWizard](https://github.com/nevstop/LabVIEW-UI-XCtl/#xpnlwizard)
  5. [XTwoColSelector](https://github.com/nevstop/LabVIEW-UI-XCtl/#xtwocolselector)
  6. [XAdvanceList](https://github.com/nevstop/LabVIEW-UI-XCtl/#xadvancelist)
+ 7. [NEVSTOP_ProgressDlg](https://github.com/nevstop/LabVIEW-UI-XCtl/#nevstop_progressdlg)
 
 XIconBtn
 -----------------
@@ -34,3 +35,10 @@ XTwoColSelector
 XAdvanceList
 -----------------
 增强LabVIEW String List 功能
+
+NEVSTOP_ProgressDlg
+-----------------
+基于消息机制的进度条/忙碌窗口。
+ 1. 调用Initialize 自动配置显示进度窗口；
+ 2. 调用Set Information VI 更新进度信息；
+ 3. 使用Release 隐藏窗口.
