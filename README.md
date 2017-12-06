@@ -43,6 +43,7 @@ LED 字符滚动显示控件，字符可预设或运行时修改。
 来源于 LabVIEW DSC 中的按钮XControl，移除不必要的dsc 相关界面内容。可以在按钮右键菜单中选择  
  1. 触发 CommandLine 命令
  2. 调用 VI  
+
 ![image](https://user-images.githubusercontent.com/8196752/33648449-e2c086e6-da94-11e7-8717-c3b9b7c1ae35.png)
  
 ### XTwoColSelector
@@ -58,5 +59,6 @@ LED 字符滚动显示控件，字符可预设或运行时修改。
  1. 调用Initialize 自动配置显示进度窗口；
  2. 调用Set Information VI 更新进度信息；
  3. 使用Release 隐藏窗口。  
-![image](https://user-images.githubusercontent.com/8196752/33648492-1c23e3ba-da95-11e7-8a71-b4b2e0aabbf7.png)
+
+![image](https://user-images.githubusercontent.com/8196752/33648492-1c23e3ba-da95-11e7-8a71-b4b2e0aabbf7.png)  
 ![image](https://user-images.githubusercontent.com/8196752/33648496-22d37bbc-da95-11e7-99a9-887facf42366.png)
