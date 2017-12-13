@@ -24,6 +24,10 @@ LabVIEW X-Controls
  ：增强LabVIEW String List
  7. [NEVSTOP_ProgressDlg](https://github.com/nevstop/LabVIEW-UI-XCtl/#nevstop_progressdlg)
  ：基于消息机制的进度条/忙碌窗口
+ 8. [saphir: VIBOX - XCONTROLS](http://www.saphir.fr/en/produits/vibox---xcontrols-9.html)
+ : saphir's XControls  
+  - XTab：支持动态调用的 XControl Tab，可作为程序的基本框架使用。   
+  - PlaceHolderString: 提示用户输入的String控件。
 
 功能说明
 -----------------
@@ -62,3 +66,11 @@ LED 字符滚动显示控件，字符可预设或运行时修改。
 
 ![image](https://user-images.githubusercontent.com/8196752/33648492-1c23e3ba-da95-11e7-8a71-b4b2e0aabbf7.png)  
 ![image](https://user-images.githubusercontent.com/8196752/33648496-22d37bbc-da95-11e7-99a9-887facf42366.png)
+
+### saphir: VIBOX - XCONTROLS
+
+动态Tab框架  
+![image](https://user-images.githubusercontent.com/8196752/33918323-a5bb1244-dfed-11e7-9d9a-2c2eeaa403ff.png)
+
+提示用户输入的String控件  
+![image](https://user-images.githubusercontent.com/8196752/33918363-d37593d0-dfed-11e7-9d8d-34638d73d3c2.png)
