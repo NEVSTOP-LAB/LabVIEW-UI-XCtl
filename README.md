@@ -20,9 +20,9 @@ LabVIEW X-Controls
  ：基于消息机制的进度条/忙碌窗口
  8. [saphir: VIBOX - XCONTROLS](https://github.com/nevstop/LabVIEW-UI-XCtl/wiki/saphir:-VIBOX---XCONTROLS )
  : saphir's XControls  
-  - [saphir.fr](http://www.saphir.fr/en/produits/vibox---xcontrols-9.html)
-  - XTab：支持动态调用的 XControl Tab，可作为程序的基本框架使用。   
-  - PlaceHolderString: 提示用户输入的String控件。
+    - [saphir.fr](http://www.saphir.fr/en/produits/vibox---xcontrols-9.html)   
+    - XTab: 支持动态调用的 XControl Tab，可作为程序的基本框架使用。   
+    - PlaceHolderString: 提示用户输入的String控件。
 
 使用说明
 -----------------
