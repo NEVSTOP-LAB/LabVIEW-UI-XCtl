@@ -20,7 +20,9 @@ LabVIEW X-Controls 列表
     - [saphir.fr](http://www.saphir.fr/en/produits/vibox---xcontrols-9.html)   
     - XTab: 支持动态调用的 XControl Tab，可作为程序的基本框架使用。   
     - PlaceHolderString: 提示用户输入的String控件。
-
+ 9. [XListGraph](https://github.com/nevstop/LabVIEW-UI-XCtl/wiki/XListGraph)
+ : ListGraph 控件。选中的曲线可以高亮显示。
+ 
 使用说明
 -----------------
 
