@@ -1,6 +1,8 @@
 LabVIEW X-Controls 列表
 -----------------
 
+[![Check_Broken_VIs](https://github.com/NEVSTOP-LAB/LabVIEW-UI-XCtl/actions/workflows/Check_Broken_VIs.yml/badge.svg)](https://github.com/NEVSTOP-LAB/LabVIEW-UI-XCtl/actions/workflows/Check_Broken_VIs.yml)
+
  1. [XIconBtn](https://github.com/nevstop/LabVIEW-UI-XCtl/wiki/XIconBtn)
  ：自定义图案按钮,可在编辑时右键中选择载入的按钮图案，可设置Label 文字和字体。
  2. [XLEDDisplay](https://github.com/nevstop/LabVIEW-UI-XCtl/wiki/XLEDDisplay)
