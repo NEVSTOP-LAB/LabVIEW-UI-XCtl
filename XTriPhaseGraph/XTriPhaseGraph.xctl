@@ -24,18 +24,19 @@
 		<Item Name="_UpdateRange.vi" Type="VI" URL="../Private/_UpdateRange.vi"/>
 		<Item Name="_Update Range Index.vi" Type="VI" URL="../Private/_Update Range Index.vi"/>
 	</Item>
-	<Item Name="Method" Type="Folder"/>
-	<Item Name="Labels" Type="Property Folder">
-		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Labels</Property>
-		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Labels</Property>
-		<Item Name="Labels Read.vi" Type="Property VI" URL="../Properties/Labels Read.vi"/>
-		<Item Name="Labels Write.vi" Type="Property VI" URL="../Properties/Labels Write.vi"/>
-	</Item>
-	<Item Name="X Label Name" Type="Property Folder">
-		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">X Label Name</Property>
-		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">X Label Name</Property>
-		<Item Name="X Label Name Read.vi" Type="Property VI" URL="../Properties/X Label Name Read.vi"/>
-		<Item Name="X Label Name Write.vi" Type="Property VI" URL="../Properties/X Label Name Write.vi"/>
+	<Item Name="Method" Type="Folder">
+		<Item Name="Labels" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Labels</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Labels</Property>
+			<Item Name="Labels Read.vi" Type="Property VI" URL="../Properties/Labels Read.vi"/>
+			<Item Name="Labels Write.vi" Type="Property VI" URL="../Properties/Labels Write.vi"/>
+		</Item>
+		<Item Name="X Label Name" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">X Label Name</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">X Label Name</Property>
+			<Item Name="X Label Name Read.vi" Type="Property VI" URL="../Properties/X Label Name Read.vi"/>
+			<Item Name="X Label Name Write.vi" Type="Property VI" URL="../Properties/X Label Name Write.vi"/>
+		</Item>
 	</Item>
 	<Item Name="Data.ctl" Type="Ability VI" URL="../Data.ctl">
 		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
