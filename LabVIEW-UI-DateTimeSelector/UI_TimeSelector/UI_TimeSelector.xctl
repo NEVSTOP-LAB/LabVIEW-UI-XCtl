@@ -1,0 +1,84 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XControl LVVersion="13008000">
+	<Property Name="EndevoGOOP_ColorFrame" Type="UInt">16777222</Property>
+	<Property Name="EndevoGOOP_ColorHeader" Type="UInt">7536704</Property>
+	<Property Name="EndevoGOOP_ColorPublic" Type="UInt">16448250</Property>
+	<Property Name="EndevoGOOP_ColorTextBody" Type="UInt">16777225</Property>
+	<Property Name="EndevoGOOP_ColorTextHeader" Type="UInt">16777215</Property>
+	<Property Name="EndevoGOOP_FrameThickness" Type="UInt">1</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*]!!!*Q(C=\&gt;5R&lt;B."&amp;-&lt;R$Z3#VD&gt;!PM+\AE6++IMS"&gt;+DY!$&lt;))P3&amp;1X6/Q'3[9+5RF&gt;Y&amp;2*+N6V+\!9F&lt;@D0?(:N)&lt;!JAE3289_^_]X/GV^W2ROJ&lt;M_E-^W@WDY=X5K`SE@VF+LN708YV`ZWP0P]:PRQL.V6@_Q@E_K4RPE/_Y@Z4`I(TF"A`+X^'K9&gt;CR]A"Z`WX`P_98Y&gt;(3_.B&amp;X@@E&lt;^B@`%JM@N=4O_P4_ZC0\Z_HKC]C+C*3VI4D/6]P&gt;*HO2*HO2*HO2"(O2"(O2"(O2/\O2/\O2/\O2'&lt;O2'&lt;O2'&lt;O2V*R?ZS%5/+:E]G3AJGB2),I;CZ#PR**\%EXAY6?**0)EH]31?,F(C34S**`%E(I9J]33?R*.Y%A_FKC4L4IYH]6"?A3@Q"*\!%XC95I%H!!34"97$)D!5&gt;!9(A3@Q""Y/&amp;8A#4_!*0)'(&lt;A7?Q".Y!E`A95C^+V%V:3@(1REZ(M@D?"S0Y['U()`D=4S/R`%QH2S0YX%1TI2/=1BS"DE8/#?/R`(Q)]@D?"S0YX%]&gt;.5HZ08/&amp;%X:S@%9(M.D?!S0Y;'%$)`B-4S'R`"16I&lt;(]"A?QW.YG%K'R`!9(A.C4-LU-II:!YW,D-$Q]+GLR?J4CCKROENN];IN3L8&amp;JL;)V";(WE.8?ZBK$UHNZKP&gt;6,7&lt;J894V0YY.&lt;1;2GU3N=(F1GXZ\GFLWIKWJ(7U/7V'G^)G:?A$8\D&gt;&lt;N8XP&gt;&lt;LN6;LF:&lt;,J&lt;KOUXQ_VWQWUX1[V71S'6]$T^H(&amp;],_P&lt;2Z^_J]M`B[M6F]?\F:8&amp;`]?(&amp;^8P+&lt;,[`@^&amp;&gt;8H\^@XHW[Z4=`&gt;G]@_0`?@`"OV&amp;-&gt;VO)?`11=;@Y$!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">XControl 2</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="Typedefs" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="INTERNAL-DATA.ctl" Type="VI" URL="../Typedefs/INTERNAL-DATA.ctl"/>
+		<Item Name="INTERNAL-REFs.ctl" Type="VI" URL="../Typedefs/INTERNAL-REFs.ctl"/>
+	</Item>
+	<Item Name="Supports" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="List" Type="Folder">
+			<Item Name="GetYearList.vi" Type="VI" URL="../../support/GetYearList.vi"/>
+			<Item Name="GetMonthList.vi" Type="VI" URL="../../support/GetMonthList.vi"/>
+			<Item Name="GetDaysList.vi" Type="VI" URL="../../support/GetDaysList.vi"/>
+			<Item Name="GetHourList.vi" Type="VI" URL="../../support/GetHourList.vi"/>
+			<Item Name="GetDaysCount.vi" Type="VI" URL="../Support/GetDaysCount.vi"/>
+			<Item Name="GetMinSecList.vi" Type="VI" URL="../../support/GetMinSecList.vi"/>
+		</Item>
+		<Item Name="Transform" Type="Folder">
+			<Item Name="Time2Data.vi" Type="VI" URL="../../support/Time2Data.vi"/>
+			<Item Name="Data2Time.vi" Type="VI" URL="../../support/Data2Time.vi"/>
+		</Item>
+		<Item Name="support" Type="Folder">
+			<Item Name="GetCurrentYYYYMMDDString.vi" Type="VI" URL="../../support/GetCurrentYYYYMMDDString.vi"/>
+			<Item Name="YearMonth2Timestamp.vi" Type="VI" URL="../../support/YearMonth2Timestamp.vi"/>
+			<Item Name="checkchanged.vi" Type="VI" URL="../Support/checkchanged.vi"/>
+			<Item Name="updateDisplay.vi" Type="VI" URL="../Support/updateDisplay.vi"/>
+			<Item Name="Bound.vi" Type="VI" URL="../Support/Bound.vi"/>
+			<Item Name="ModeToHideList.vi" Type="VI" URL="../Support/ModeToHideList.vi"/>
+			<Item Name="isLeapYear.vi" Type="VI" URL="../Support/isLeapYear.vi"/>
+		</Item>
+		<Item Name="_Initialize.vi" Type="VI" URL="../Support/_Initialize.vi"/>
+		<Item Name="_UpdateDisplay.vi" Type="VI" URL="../Support/_UpdateDisplay.vi"/>
+		<Item Name="_ChangeMode.vi" Type="VI" URL="../Support/_ChangeMode.vi"/>
+		<Item Name="_SetData.vi" Type="VI" URL="../Support/_SetData.vi"/>
+		<Item Name="_AdjustDataWithMode.vi" Type="VI" URL="../Support/_AdjustDataWithMode.vi"/>
+		<Item Name="_UpdateListSelection.vi" Type="VI" URL="../Support/_UpdateListSelection.vi"/>
+		<Item Name="_UpdateUIDisplay.vi" Type="VI" URL="../Support/_UpdateUIDisplay.vi"/>
+		<Item Name="_AdjustAndDisplay.vi" Type="VI" URL="../Support/_AdjustAndDisplay.vi"/>
+	</Item>
+	<Item Name="Property" Type="Folder">
+		<Item Name="Mode" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Mode</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Mode</Property>
+			<Item Name="Mode Write.vi" Type="Property VI" URL="../Property/Mode Write.vi"/>
+			<Item Name="Mode Read.vi" Type="Property VI" URL="../Property/Mode Read.vi"/>
+		</Item>
+		<Item Name="Peroid" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Peroid (2)</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Peroid</Property>
+			<Item Name="Peroid Read.vi" Type="Property VI" URL="../Property/Peroid Read.vi"/>
+		</Item>
+	</Item>
+	<Item Name="Interface" Type="Folder">
+		<Item Name="DEF-Mode.ctl" Type="VI" URL="../Interface/DEF-Mode.ctl"/>
+	</Item>
+	<Item Name="Data.ctl" Type="Ability VI" URL="../Data.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
+	</Item>
+	<Item Name="Facade.vi" Type="Ability VI" URL="../Facade.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Facade</Property>
+	</Item>
+	<Item Name="Init.vi" Type="Ability VI" URL="../Init.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Init</Property>
+	</Item>
+	<Item Name="State.ctl" Type="Ability VI" URL="../State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+</XControl>
