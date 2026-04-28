@@ -1,0 +1,52 @@
+# Compiled Object files
+#----------------------------------
+*.slo
+*.lo
+*.o
+*.pdb
+*.tlog
+
+# Compiled Dynamic libraries
+#----------------------------------
+*.so
+*.dylib
+
+# Compiled Static libraries
+#----------------------------------
+*.lai
+*.la
+*.a
+
+# VS Solution
+#----------------------------------
+*.vcxproj.user
+Release/
+Debug/
+ipch/
+
+#VC6.0
+#----------------------------------
+*.ncb
+
+#vs2010
+#----------------------------------
+*.sdf
+*.suo
+*.opensdf
+*.ilk
+
+#LabVIEW ignore files
+#----------------------------------
+*.aliases
+*.lvlps
+
+# Directories
+#----------------------------------
+/Backup/VISN Data Logger
+/Build
+/installer
+/ignore
+/log.xml
+/AlarmHistory.xml
+/DataHistory.xml
+/doc/~$协议--何源.docx
