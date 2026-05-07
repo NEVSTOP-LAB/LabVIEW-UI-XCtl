@@ -1,13 +1,13 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<XControl LVVersion="14008000">
+<XControl LVVersion="17008000">
 	<Property Name="EndevoGOOP_ColorFrame" Type="UInt">0</Property>
 	<Property Name="EndevoGOOP_ColorHeader" Type="UInt">16959</Property>
 	<Property Name="EndevoGOOP_ColorPublic" Type="UInt">16448250</Property>
 	<Property Name="EndevoGOOP_ColorTextBody" Type="UInt">0</Property>
 	<Property Name="EndevoGOOP_ColorTextHeader" Type="UInt">16777215</Property>
 	<Property Name="EndevoGOOP_FrameThickness" Type="UInt">1</Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,)!!!*Q(C=T:1`&lt;B."&amp;)&gt;`$E3G^161YCO]FC++X&amp;.:O=&amp;L=A"XS(4G#+_DI@%6,&amp;*20C18"IF)FDC"$Z"G_8:X3$&lt;LA#-2"$.ZXJX@_`&gt;F&gt;D23-VZ)TV5&gt;'OP@DL`P"X4.XVL.OHFJ6YV)@J(5OO`0&gt;@'X-7V17\!NOHZE`E``X?,/`Y`XZ]$1UYR,;=/Y*X4(5)VPUR&amp;[_4V`0\^Y&lt;A/'H6D&gt;X'ROSOC]&gt;.)X&gt;_X[B&gt;L&amp;J?Y(&lt;0&lt;Y?`Y^`EZ!P2'`TH^1'0&lt;C,`PV^U;P8D_`X_]0RPTA)8L%_2K]UHTQJFCF^]/K_P[MKO&lt;(W/!")[K$Q(N&gt;K[I3#]QR5VW_3P2%4`2%4`2%$`2!$`2!$`2!&gt;X2(&gt;X2(&gt;X2(.X2$.X2$.X2$&lt;S;[U)5O&gt;*#3ZEGDJ'B3)!E'2=F0QJ0Q*$Q*$UMF0!F0QJ0Q*$S%+/&amp;*?"+?B#@B)5U*4]+4]#1]#1_F'J*M*DI]#1`F&amp;@!%0!&amp;0Q"0QU&amp;)"4Q!1.!M+"U8!5/!-8A+?A#@AY65"4]!4]!1]!1^O"4Q"4]!4]!1]J$3\%AV.0&gt;(BI9Q=(I@(Y8&amp;Y("Z+S_&amp;R?"Q?B]@BI:U=(I@(A8!;/M6"E*0E"$A,B]@BY3'(R_&amp;R?"Q?BQ&gt;8]Y7]W:G;JJ\I]"A]"I`"9`!90*31Q70Q'$Q'D]&amp;$72E]"I`"9`!90,33Q70Q'$Q'C.'5^D++'9F'E#%900QVJ]7;LR1.C464+I&gt;8Z6#K($;61[2S/&amp;1_OML(60F)+JOPMKEKG[7S#3L`H!KU#IR+%Z8E/F!\@L@9#FNC#WS'4&lt;%*.M:'&gt;?I4"_ZW/WWX7[V7+SW83SU7#]VG-UWH5UUG%YX(9YV'I^NLY)2Z?S%]@#_^O`L[_@LD^/,&lt;BU_P[_@VV:?,1`?3THG?]XSLEY(G:U=[GR`L&gt;#[&gt;UODFP,U&amp;"^K`F`[(OV&amp;([N3K^_A(X,LFDA!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,)!!!*Q(C=T:1`&lt;B."&amp;)&gt;`$E3G^161YCO]FC++X&amp;.:O=&amp;L=A"XS(4G#+_DI@%6,&amp;*20C18"IF)FDC"$Z"G_8:X3$&lt;LA#-2"$.ZXJX@_`&gt;F&gt;D23-VZ)TV5&gt;'OP@DL`P"X4.XVL.OHFJ6YV)@J(5OO`0&gt;@'X-7V17\!NOHZE`E``X?,/`Y`XZ]$1UYR,;=/Y*X4(5)VPUR&amp;[_4V`0\^Y&lt;A/'H6D&gt;X'ROSOC]&gt;.)X&gt;_X[B&gt;L&amp;J?Y(&lt;0&lt;Y?`Y^`EZ!P2'`TH^1'0&lt;C,`PV^U;P8D_`X_]0RPTA)8L%_2K]UHTQJFCF^]/K_P[MKO&lt;(W/!")[K$Q(N&gt;K[I3#]QR5VW_3P2%4`2%4`2%$`2!$`2!$`2!&gt;X2(&gt;X2(&gt;X2(.X2$.X2$.X2$&lt;S;[U)5O&gt;*#3ZEGDJ'B3)!E'2=F0QJ0Q*$Q*$UMF0!F0QJ0Q*$S%+/&amp;*?"+?B#@B)5U*4]+4]#1]#1_F'J*M*DI]#1`F&amp;@!%0!&amp;0Q"0QU&amp;)"4Q!1.!M+"U8!5/!-8A+?A#@AY65"4]!4]!1]!1^O"4Q"4]!4]!1]J$3\%AV.0&gt;(BI9Q=(I@(Y8&amp;Y("Z+S_&amp;R?"Q?B]@BI:U=(I@(A8!;/M6"E*0E"$A,B]@BY3'(R_&amp;R?"Q?BQ&gt;8]Y7]W:G;JJ\I]"A]"I`"9`!90*31Q70Q'$Q'D]&amp;$72E]"I`"9`!90,33Q70Q'$Q'C.'5^D++'9F'E#%900QVJ]7;LR1.C464+I&gt;8Z6#K($;61[2S/&amp;1_OML(60F)+JOPMKEKG[7S#3L`H!KU#IR+%Z8E/F!\@L@9#FNC#WS'4&lt;%*.M:'&gt;?I4"_ZW/WWX7[V7+SW83SU7#]VG-UWH5UUG%YX(9YV'I^NLY)2Z?S%]@#_^O`L[_@LD^/,&lt;BU_P[_@VV:?,1`?3THG?]XSLEY(G:U=[GR`L&gt;#[&gt;UODFP,U&amp;"^K`F`[(OV&amp;([N3K^_A(X,LFDA!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
